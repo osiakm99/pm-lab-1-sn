@@ -29,7 +29,7 @@ Odpowiedź:  Dioda ma większą częstotliwość migania.
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  Nagła zmiana świateł, gwałtowniejsza reakcja.
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
